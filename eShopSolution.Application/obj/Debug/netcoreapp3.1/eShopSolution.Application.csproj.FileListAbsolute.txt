@@ -1,0 +1,16 @@
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.deps.json
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.dll
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Application.pdb
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csprojAssemblyReference.cache
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.AssemblyInfoInputs.cache
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.AssemblyInfo.cs
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.dll
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.pdb
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CopyComplete
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.dll
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.Utilities.pdb
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.dll
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\bin\Debug\netcoreapp3.1\eShopSolution.ViewModels.pdb
+D:\HIEU\Projects\LeanNetCore\eShopSolution.Application\obj\Debug\netcoreapp3.1\eShopSolution.Application.csproj.CoreCompileInputs.cache

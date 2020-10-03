@@ -153,6 +153,10 @@ D:\HIEU\Projects\LeanNetCore\eShopSolution.BackendAPI\bin\Debug\netcoreapp3.1\Mi
 D:\HIEU\Projects\LeanNetCore\eShopSolution.BackendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 D:\HIEU\Projects\LeanNetCore\eShopSolution.BackendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\HIEU\Projects\LeanNetCore\eShopSolution.BackendAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HIEU\Projects\LeanNetCore\eShopSolution.BackendAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\HIEU\Projects\LeanNetCore\eShopSolution.BackendAPI\obj\Debug\netcoreapp3.1\eShopSolution.BackendAPI.csproj.CoreCompileInputs.cache
 D:\HIEU\Projects\LeanNetCore\eShopSolution.BackendAPI\obj\Debug\netcoreapp3.1\eShopSolution.BackendAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\HIEU\Projects\LeanNetCore\eShopSolution.BackendAPI\obj\Debug\netcoreapp3.1\eShopSolution.BackendAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\HIEU\Projects\LeanNetCore\eShopSolution.BackendAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\HIEU\Projects\LeanNetCore\eShopSolution.BackendAPI\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\HIEU\Projects\LeanNetCore\eShopSolution.BackendAPI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll

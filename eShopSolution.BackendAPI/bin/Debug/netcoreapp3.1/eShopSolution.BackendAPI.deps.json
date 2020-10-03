@@ -24,6 +24,8 @@
     ".NETCoreApp,Version=v3.1": {
       "eShopSolution.BackendAPI/1.0.0": {
         "dependencies": {
+          "FluentValidation.AspNetCore": "9.2.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.8",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.4",
           "Swashbuckle.AspNetCore": "5.6.3",
           "eShopSolution.Application": "1.0.0",
@@ -286,6 +288,61 @@
         },
         "compile": {
           "eShopSolution.BackendAPI.dll": {}
+        }
+      },
+      "FluentValidation/9.2.2": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.2.2.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        }
+      },
+      "FluentValidation.AspNetCore/9.2.0": {
+        "dependencies": {
+          "FluentValidation": "9.2.2",
+          "FluentValidation.DependencyInjectionExtensions": "9.2.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.2.0.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {}
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/9.2.0": {
+        "dependencies": {
+          "FluentValidation": "9.2.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.8"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.2.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.8": {
+        "dependencies": {
+          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "5.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42106"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {}
         }
       },
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.8": {
@@ -2433,6 +2490,7 @@
       },
       "eShopSolution.ViewModels/1.0.0": {
         "dependencies": {
+          "FluentValidation": "9.2.2",
           "Microsoft.AspNetCore.Http.Features": "3.1.8"
         },
         "runtime": {
@@ -3949,6 +4007,34 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/9.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y1TQrSa82i/WWPpXriEkL7uyUyECw3Uvtq66dZ8VC3pwFa9VqnZmeZaJJpz8deKhJQNDgqwU3BSptKTnyjqzuA==",
+      "path": "fluentvalidation/9.2.2",
+      "hashPath": "fluentvalidation.9.2.2.nupkg.sha512"
+    },
+    "FluentValidation.AspNetCore/9.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LOEBZoLPCULAVnRLgxPzF64V2KnMNlWatE6zfLq+h+kgEsPGxl0i/0ky6vNhyRHQkINSqaEBzTCOaQuOvz/d9Q==",
+      "path": "fluentvalidation.aspnetcore/9.2.0",
+      "hashPath": "fluentvalidation.aspnetcore.9.2.0.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/9.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NZWi2FIRsD/R6JOngv2faT9I8BfKR3hRfxY8DoRUjBkOM6X2LMfmYnTNg/NFjKc8w3bKhVj7n7CxvApTKXetwQ==",
+      "path": "fluentvalidation.dependencyinjectionextensions/9.2.0",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sAXFFgsSEYd6PTFCzBKYBlXnb+ncclrQPMyMzARELxBv94Onqtr/JTWKih+NUr/3xR5BAs1xE6boao0Us6xcPA==",
+      "path": "microsoft.aspnetcore.authentication.jwtbearer/3.1.8",
+      "hashPath": "microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.8": {
       "type": "package",

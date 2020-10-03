@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yY1jlq/pTLBKJwp1SjsY4+shQ4uHi2LntciUHHexUWbhgCnt8kgzKySh2Q+kKdzcRyTLxGgcsADrFYFs7PwPVg==",
+  "dgSpecHash": "OMKgCHDNVog4uPS7+Pyx5ICCmVjZ0IECWvmkDwd7tvyZw8CARgpIQjR3advlsMwG/MjoSYkPdc8mYUv5vdAKmA==",
   "success": true,
   "projectFilePath": "D:\\HIEU\\Projects\\LeanNetCore\\eShopSolution.BackendAPI\\eShopSolution.BackendAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\public.SHC\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512",
+    "C:\\Users\\public.SHC\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.2.0\\fluentvalidation.aspnetcore.9.2.0.nupkg.sha512",
+    "C:\\Users\\public.SHC\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.2.0\\fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512",
+    "C:\\Users\\public.SHC\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.8\\microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512",
     "C:\\Users\\public.SHC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\public.SHC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",
     "C:\\Users\\public.SHC\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

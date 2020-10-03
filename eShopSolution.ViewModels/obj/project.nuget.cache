@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HbG6VF8eu2AbP/iu+2H1yPTAySu5TMvb2b8RDnaeS+CmfYdaq9l8sU4QZoQmWid/fM6nAc+rCYIx2LTQS9T7BQ==",
+  "dgSpecHash": "MmxK3PzoNq1f3ade1gXzVbSFm03bH66L5JVuMkpCOvsKHY3N6/ApPrVEmgLHEzDatMNGNX4mp7Q0I0WIIDM8bg==",
   "success": true,
   "projectFilePath": "D:\\HIEU\\Projects\\LeanNetCore\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\public.SHC\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512",
     "C:\\Users\\public.SHC\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.8\\microsoft.aspnetcore.http.features.3.1.8.nupkg.sha512",
     "C:\\Users\\public.SHC\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
     "C:\\Users\\public.SHC\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512"
